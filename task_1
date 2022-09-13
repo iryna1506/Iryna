@@ -1,0 +1,6 @@
+print ("What is Bitcoin price today?")
+a=int(input())
+print("How much $ do you have?")
+b=int(input())
+c = a / b
+print("You can buy",c,"BTC")
